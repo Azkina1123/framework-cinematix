@@ -17,11 +17,11 @@
         <div class="grid grid-cols-1 justify-items-center text-center">
             <p>
                 Cinematix hadir sebagai layanan penjualan tiket bioskop secara online yang dirancang untuk
-                memudahkan pengguna <br> dalam mencari, memilih, dan membeli tiket untuk berbagai film yang
-                ditayangkan di berbagai bioskop. Cinematix berusaha memberikan pengalaman <br> yang nyaman dan efisien
+                memudahkan pengguna dalam mencari, memilih, dan membeli tiket untuk berbagai film yang
+                ditayangkan di berbagai bioskop. Cinematix berusaha memberikan pengalaman yang nyaman dan efisien
                 bagi
                 pengguna yang ingin menikmati film di bioskop dengan mengintegrasikan informasi tentang film, jadwal
-                tayang, <br> dan pembelian tiket dalam satu platform online yang mudah diakses.
+                tayang, dan pembelian tiket dalam satu platform online yang mudah diakses.
             </p>
         </div>
 

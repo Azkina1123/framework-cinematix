@@ -1,7 +1,7 @@
     <section class="p-10 grid grid-cols-1 gap-5">
         <h2 class="text-xl font-bold "> Cinemas </h2>
 
-        <div class="grid grid-cols-6 justify-items-center content-center">
+        <div class="grid md:grid-cols-6 sm:grid-cols-3 gap-5 justify-items-center content-center">
             <?php $cinemas = ['Shown U', "JeeIn'O", 'LMark', 'Flutix', 'Flutix V2', 'Shine Yeol']; ?>
 
             @for ($i = 0; $i < 6; $i++)
